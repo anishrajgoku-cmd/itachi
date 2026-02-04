@@ -1,2 +1,3 @@
 # itachi
-This is my first Git projet
+This is my first Git Repository
+Author-Anish
